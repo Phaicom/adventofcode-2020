@@ -1,0 +1,20 @@
+{
+  "name": "adventofcode-2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phaicom/adventofcode-2020.git"
+  },
+  "author": "Reawpai Chunsoi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Phaicom/adventofcode-2020/issues"
+  },
+  "homepage": "https://github.com/Phaicom/adventofcode-2020#readme",
+  "dependencies": {}
+}
